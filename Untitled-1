@@ -1,9 +1,0 @@
-
-
-for i range(depth):
-    if (x**i > N):
-        x = random
-
-
-for j in range(0, depth+1):
-    numero = numero 
